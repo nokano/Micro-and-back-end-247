@@ -12,7 +12,7 @@ Microcontroler and Backend Version of Weather247 App, this project was made by
 - Rara Priska Yuniar
 
 ------------------------------------------------
-This app using Arduino Software, reference [here] (https://www.arduino.cc/reference/en/)
+This app using Arduino Software, reference [here](https://www.arduino.cc/reference/en/)
 
 This BackEnd using php
 
@@ -21,7 +21,7 @@ This BackEnd using php
 NodeMcu and Sensor Bmp180 and Dht11/22 Library
 
 - Esp8266 Library,reference [here](http://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
-- Adafruit_BMP085, reference [here] (https://www.arduinolibraries.info/libraries/adafruit-bmp085-library)
+- Adafruit_BMP085, reference [here](https://www.arduinolibraries.info/libraries/adafruit-bmp085-library)
 - Adafruit,reference [here](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use?view=all)
 
 ## Configuration
