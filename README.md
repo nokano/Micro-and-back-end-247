@@ -39,3 +39,6 @@ client can get data averange temperture, humidity and preassure last 5 day, now 
 Using php to create fuzzy, using mamdani fuzzy and using centroid as fuzzification, fuzzy must give 3 input data, there are temperature data, humidiy data, and preassure data.
 Fuzzy can mapping output to Rainy,Sunny, and Cloudy.
 
+#### Sql Database
+Using Sql Database to save data humidity,temperature, preassure from NodeMcu and weather prediction from fuzzy.
+
